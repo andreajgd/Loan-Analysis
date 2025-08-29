@@ -20,7 +20,7 @@ This project analyzes loan performance and focuses on two main areas:
    By comparing key metrics, we uncover insights into the factors that influence a loan's success or failure.  
 
 
-## 📊 A Visual Story
+## 📊 Visual Story
 
 The project comes with clear, insightful visualizations:
 

@@ -1,10 +1,10 @@
-# ✧ Bank Loan Analysis
+#  Bank Loan Analysis
 
 This repository is a dive into **financial data analysis**, using Python to uncover the stories hidden within a loan dataset.  
 Its core purpose is understanding **loan performance**.
 
 
-## ✧ What's Inside?
+##  What's Inside?
 
 This project analyzes loan performance and focuses on two main areas:
 
